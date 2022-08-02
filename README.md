@@ -1,2 +1,2 @@
-# alanpolishdev.xyz
-My Website
+Hi! MY Website.
+Im 15yo Dev. 
